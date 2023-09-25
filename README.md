@@ -2,7 +2,6 @@
 
 Bem-vindo ao Jogo do Mario, uma versão simplificada onde você controla o Mario para desviar dos canos voadores usando HTML, CSS e JavaScript.
 
-![Screenshot do Jogo](screenshot.png)
 
 ## Como Jogar
 
